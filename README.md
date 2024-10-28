@@ -1,0 +1,2 @@
+# pyminigame
+trying out pygame
