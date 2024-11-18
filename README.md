@@ -1,2 +1,2 @@
 # pyminigame
-trying out pygame
+- limbus company reset gacha simulator
